@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('https://img.freepik.com/free-vector/abstract-realistic-technology-particle-background_23-2148433468.jpg?t=st=1729073473~exp=1729077073~hmac=93cbf02a7b96adbae6826e23632db50cfcb3fc6f24c3859571ff277ad45b069a&w=826');
+    background-size: cover;
+    margin: 0;
+    padding: 20px;
+}
+
+h2 {
+    color: #e42c2c;
+    text-align: center;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #3f57be;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
