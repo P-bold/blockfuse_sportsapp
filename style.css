@@ -1,13 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background: url('https://img.freepik.com/free-vector/abstract-realistic-technology-particle-background_23-2148433468.jpg?t=st=1729073473~exp=1729077073~hmac=93cbf02a7b96adbae6826e23632db50cfcb3fc6f24c3859571ff277ad45b069a&w=826');
-    background-size: cover;
+    background: url('https://files.oaiusercontent.com/file-8CjVQiIM9keoNTHeuFMJNca6?se=2024-10-18T07%3A53%3A28Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da2e61448-d22c-4bc3-9c20-f8009a383960.webp&sig=WEM1OOiquYC8TRGTHQJ4sbogntxQc0/rkK8rXdvWKKA%3D')no-repeat center center/cover;
     margin: 0;
     padding: 20px;
 }
 
 h2 {
-    color: #e42c2c;
+    color: #e47f2c;
     text-align: center;
 }
 
@@ -15,7 +14,7 @@ form {
     max-width: 400px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #3f57be;
+    background-color: rgb(86, 61, 230);
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
